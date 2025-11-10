@@ -2,7 +2,7 @@
 category: Comptabilisation des Appels
 category_slug: comptabilisation-appels
 slug: appel-decline
-sort_order: 2
+sort_order: 1
 ---
 
 # Qu'est ce qu'un appel décliné ?

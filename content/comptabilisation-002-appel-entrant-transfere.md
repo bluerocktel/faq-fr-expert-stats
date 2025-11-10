@@ -2,7 +2,7 @@
 category: Comptabilisation des Appels
 category_slug: comptabilisation-appels
 slug: appel-entrant-transfere
-sort_order: 1
+sort_order: 2
 ---
 
 # Un appel est répondu par un agent, puis transféré à un second agent : cet appel est il comptabilisé comme un appel interne ou un appel entrant ?
