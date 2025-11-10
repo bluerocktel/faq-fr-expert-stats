@@ -1,7 +1,7 @@
 title: Expert-Stats
 site_name: 3CX Expert-Stats
 description: Questions fréquemment posées
-lang: en
+lang: fr
 
 header:
   title: FAQ
@@ -10,7 +10,7 @@ header:
   search_placeholder: Search FAQ...
 
 footer:
-  text: "© 2025 CX-Engine. All rights reserved."
+  text: "© 2025 BlueRockTEL."
   links:
     - text: BlueRockTEL
       url: https://bluerocktel.com
