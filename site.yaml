@@ -10,13 +10,16 @@ header:
   search_placeholder: Search FAQ...
 
 footer:
-  text: "© 2024 My Company. All rights reserved."
+  text: "© 2025 CX-Engine. All rights reserved."
   links:
-    - text: Privacy Policy
-      url: /privacy
-      target: _self
-    - text: Contact
-      url: mailto:contact@example.com
+    - text: BlueRockTEL
+      url: https://bluerocktel.com
+      target: _blank
+    - text: CX-Engine
+      url: https://cx-engine.com
+      target: _blank
+    - text: Encom
+      url: https://encom-conseil.fr
       target: _blank
 
 theme:
