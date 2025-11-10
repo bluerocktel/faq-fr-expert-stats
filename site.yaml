@@ -1,0 +1,26 @@
+title: Expert-Stats
+site_name: 3CX Expert-Stats
+description: Questions fréquemment posées
+lang: en
+
+header:
+  title: FAQ
+  logo: https://example.com/logo.png  # Optional
+  show_search: true
+  search_placeholder: Search FAQ...
+
+footer:
+  text: "© 2024 My Company. All rights reserved."
+  links:
+    - text: Privacy Policy
+      url: /privacy
+      target: _self
+    - text: Contact
+      url: mailto:contact@example.com
+      target: _blank
+
+theme:
+  primary_color: "#3b82f6"
+  primary_color_600: "#2563eb"
+  primary_color_700: "#1d4ed8"
+
