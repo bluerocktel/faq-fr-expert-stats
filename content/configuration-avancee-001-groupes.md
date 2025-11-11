@@ -15,4 +15,4 @@ Les Expert-Stats vous permettent de regrouper :
 
 En rappelant les groupes pré-configurés, vous pourrez facilement et rapidement voir les statistiques correspondantes, sans avoir à re-sélectionner les ressources une à une à chaque consultation.
 
-🎥 Une vidéo tuto est dispo ici : (https://www.youtube.com/watch?v=NwkGJufKfJ0)[Voir sur Youtube] 
+🎥 Une vidéo tuto réalisée par Encom est dispo ici : <a href="https://www.youtube.com/watch?v=NwkGJufKfJ0" target="_blank">Voir sur YouTube</a>

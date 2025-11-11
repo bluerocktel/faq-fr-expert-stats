@@ -9,5 +9,5 @@ sort_order: 2
 
 Les Expert-Stats vous permettent de planifier des rapports et de configurer des alertes.
 
-🎥 Une vidéo tuto est dispo ici : <a href="https://www.youtube.com/watch?v=0ly7TLRrElg" target="_blank">Voir sur YouTube</a>
+🎥 Une vidéo tuto réalisée par Encom est dispo ici : <a href="https://www.youtube.com/watch?v=0ly7TLRrElg" target="_blank">Voir sur YouTube</a>
 
