@@ -4,8 +4,8 @@ description: Questions fréquemment posées
 lang: fr
 
 header:
-  title: ""
-  logo: https://cx-engine.com/img/cx-engine-logo-inline.861823d2.svg  # Optional
+  title: FAQ
+  logo: 
   show_search: true
   search_placeholder: Rechercher...
 
