@@ -4,13 +4,13 @@ description: Questions fréquemment posées
 lang: fr
 
 header:
-  title: FAQ
-  logo: https://example.com/logo.png  # Optional
+  title:
+  logo: https://cx-engine.com/img/cx-engine-logo-inline.861823d2.svg  # Optional
   show_search: true
-  search_placeholder: Search FAQ...
+  search_placeholder: Rechercher...
 
 footer:
-  text: "© 2025 BlueRockTEL."
+  text: "© 2025 CX-Engine."
   links:
     - text: BlueRockTEL
       url: https://bluerocktel.com
